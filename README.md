@@ -39,7 +39,7 @@ O comando SELECT é utilizado para consultar dados de uma tabela, podendo retorn
 ### Exemplo
 ```sql
 SELECT * FROM products;
-
+```
 ### Resultado
 
 | id | name     | price | stock | category_id |
